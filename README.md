@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming languages
 - 📫 you can reach me at
 - syedrahmath1410@gmail.com
-- twitter-sdrahmath
+- twitter-@SyedRahmath1410
 - 
 
 <!---
