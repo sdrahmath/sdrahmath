@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋, I'm Syed Rahmath</h1>
 <p></p>
 <h3 align="center">**A Passionate Beginner: Embracing the Journey of Learning and Building**</h3>
-<img align="right" alt="Coding" height="250"width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="display: inline-block; border-radius: 20px; overflow: hidden;">	
+<img align="right" alt="Coding" height="250"width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="display: inline-block; border-radius: 20px; overflow: hidden;">	
 
 - 🔭  I am dedicated to constant self-improvement, seeking to unlock my fullest potential.
 
