@@ -10,7 +10,7 @@
 
 
 
-- ⚡ Fun fact -> I'm a language learner 🗣️. I enjoy immersing myself in different languages and cultures, constantly expanding my linguistic repertoire.
+- ⚡ Fun fact -> As a programmer, I constantly immerse myself in various programming languages and frameworks, continuously expanding my technical repertoire while exploring diverse coding cultures.
 - 📫 You can reach me at **syedrahmath1410@gmail.com**
 <div>
 <h2 align="left">Connect with me:</h2>
