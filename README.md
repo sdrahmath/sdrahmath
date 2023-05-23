@@ -31,10 +31,10 @@
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 <div class="stats" align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sdrahmath&show_icons=true&locale=en&theme=algolia&border_radius=20" alt="sdrahmath"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sdrahmath&theme=algolia&border_radius=20" alt="sdrahmath" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sdrahmath&show_icons=true&locale=en&border_radius=20&theme=github" alt="sdrahmath"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sdrahmath&border_radius=20&theme=github" alt="sdrahmath" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdrahmath&show_icons=true&locale=en&layout=compact&theme=algolia&border_radius=20" alt="sdrahmath" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdrahmath&show_icons=true&locale=en&layout=compact&border_radius=20&theme=github" alt="sdrahmath" /></p>
 </div>
 
 <!---
