@@ -30,14 +30,18 @@
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-<div class="stats" align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sdrahmath&show_icons=true&locale=en&border_radius=20" alt="sdrahmath"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sdrahmath&border_radius=20" alt="sdrahmath" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdrahmath&show_icons=true&locale=en&layout=compact&border_radius=20" alt="sdrahmath" /></p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sdrahmath&theme=default&hide_border=false&include_all_commits=false&count_private=false&border_radius=20" alt="GitHub Stats">
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdrahmath&theme=default&hide_border=false&border_radius=20" alt="GitHub Streak Stats">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdrahmath&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&border_radius=20" alt="Top Languages">
 </div>
+
 
 <!---
 sdrahmath/sdrahmath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
