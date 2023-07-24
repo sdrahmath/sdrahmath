@@ -32,11 +32,11 @@
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sdrahmath&theme=default&hide_border=false&include_all_commits=false&count_private=false&border_radius=20" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=sdrahmath&theme=default&hide_border=false&include_all_commits=false&count_private=false&theme=algolia&border_radius=20" alt="GitHub Stats">
     <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdrahmath&theme=default&hide_border=false&border_radius=20" alt="GitHub Streak Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdrahmath&theme=default&hide_border=false&border_radius=20&theme=algolia" alt="GitHub Streak Stats">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdrahmath&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&border_radius=20" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdrahmath&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=algolia&border_radius=20" alt="Top Languages">
 </div>
 
 
