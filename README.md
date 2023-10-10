@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Learner: Embracing the Journey of Learning and Building</h3>
 <img align="right" alt="Coding" height="200"width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="display: inline-block; border-radius: 20; overflow: hidden;">	
 
-<br>
+<br> 
 
 - 🔭 I am dedicated to constant self-improvement, seeking to unlock my fullest potential.<br>
 - 🌱 I’m currently working on **Data science and Machine Learning**<br>
